@@ -1,4 +1,7 @@
-[ReadMe.md](https://github.com/user-attachments/files/23677697/ReadMe.md)# 💫 About Me:
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[ReadMe.md](https://github.com/user-attachments/files/23677702/ReadMe.md)
+# 💫 About Me:
 I’m an incoming Computer Science student at the University of Michigan–Ann Arbor with a growing interest in the intersection of artificial intelligence, mathematics, and computational research.<br><br>I’m fascinated by how mathematical modeling and algorithmic reasoning can drive breakthroughs in machine learning and data-driven decision-making. My goal is to build a strong foundation in AI theory, statistics, and applied mathematics, and contribute to projects that explore how intelligent systems learn, reason, and adapt.<br><br>I’m currently expanding my skills in Python, R, and SQL, while exploring core concepts in machine learning, optimization, and data analysis. I’m eager to gain research or lab experience where I can collaborate with others, learn from mentors, and apply my technical and analytical mindset to meaningful problems.<br><br>Always open to connecting with students, researchers, or mentors working in AI, math, or computational science
 
 
